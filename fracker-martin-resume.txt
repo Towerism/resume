@@ -1,68 +1,80 @@
-Martin Fracker, Jr.
-www.martinfrackerjr.com
-martin.frackerjr@gmail.com
-(979)-676-5680
+ martin.frackerjr@gmail.com  *Martin Fracker, Jr.*    907 Cross St., #733B      
+ (907)-676-5680              www.martinfrackerjr.com  College Station, TX 77840 
+
 
 EDUCATION
+=========
 
 Texas A&M University - College Station, TX
-B.S., Computer Science, Since Aug 2013
-Overall GPA: 3.47
-Expected to graduate May 2017.
-Relevant computer science courses:
--CSCE 411, Design and Analysis of Algorithms
--CSCE 315, Programming Studio
--CSCE 314, Programming Languages
--CSCE 221, Data Structures and Algorithms
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  /B.S., Computer Science, Since Aug 2013/
+  Overall GPA: 3.47
+  Expected to graduate May 2017.
+  Relevant computer science courses:
+  - CSCE 411, Design and Analysis of Algorithms
+  - CSCE 315, Programming Studio
+  - CSCE 314, Programming Languages
+  - CSCE 221, Data Structures and Algorithms
+
 
 PROJECTS
+========
 
-Cryptosecurity Suite, May 2015:
-C++ Developer
-Using agile scrum and test-driven development, worked in a team of
-programmers to write various cryptography tools. Wrote a tool to hide
-and retrieve data from images and sound files.
+Cryptosecurity Suite / C++ Developer
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Database Management System, April 2015:
-C++ Developer
-Designed and implemented a relational database management system as well
-as a simple SQL-like language using Boost libraries Spirit, Phoenix, and
-Fusion.
+  *May 2015*
+  Using agile scrum and test-driven development, worked in a team of
+  programmers to write various cryptography tools. Wrote a tool to hide
+  and retrieve data from images and sound files.
 
-E-Writer, Feb-April 2014:
-Qt and C++ Developer
-Developed a fast and efficient word processor with a UI that facilitates
-high productivity without a mouse for a low-power Linux device. The
-device was a finalist entry in the 2014 Raymond Ideas Challenge, winning
-$1000 in the video competition.
+
+Database Management System / C++ Developer
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  *Apr 2015*
+  Designed and implemented a relational database management system as
+  well as a simple SQL-like language using Boost libraries Spirit,
+  Phoenix, and Fusion.
+
+
+E-Writer / Qt and C++ Developer
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  *Feb-Apr 2014*
+  Developed a fast and efficient word processor with a UI that
+  facilitates high productivity without a mouse for a low-power Linux
+  device. The device was a finalist entry in the 2014 Raymond Ideas
+  Challenge, winning $1000 in the video competition.
+
 
 COMPUTER SKILLS
+===============
 
-Languages: C, C++, Ruby, Java, Bash, Haskell, Lua, LaTeX.
-Applications: Emacs, Vim, JetBrains IDE, Visual Studio, Git.
-Operating Systems: Linux, Unix, Mac OSX, Windows.
+  *Languages*: C, C++, Ruby, Java, Bash, Haskell, Lua, LaTeX.
+  *Applications*: Emacs, Vim, JetBrains, Visual Studio, Git.
+  *Operating Systems*: Linux, Unix, Mac OSX, Windows.
+
 
 EXPERIENCE
+==========
 
 Six Flags - San Antonio, TX
-Ride Operator, Feb-Oct 2011
-Kept track of guest throughput. Maintained cleanliness of ride area.
-Ensured safety of guests on the ride. Supervised hundreds of guests on
-five different rides throughout the day.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  /Ride Operator, Feb-Oct 2011/
+  Kept track of guest throughput. Maintained cleanliness of ride area.
+  Ensured safety of guests on the ride. Supervised hundreds of guests on
+  five different rides throughout the day.
+
 
 ACTIVITIES
+==========
 
-Hullabaloo Band, Since Aug 2013
-Playing trombone in the pep band for Texas A&M University basketball and
-volleyball.
+Hullabaloo Band
+~~~~~~~~~~~~~~~
 
-HONORS
-
-Distinguished Student, December 2013
-
-INTERESTS
-
--Writing free, open-source libraries.
--Designing and developing games.
--Learning new programming languages.
--Maintaining personal Arch Linux systems.
+  /Trombone Player, Since Aug 2013/
+  Playing trombone in the pep band for Texas A&M University basketball
+  and volleyball.
