@@ -9,6 +9,7 @@ Texas A&M University - College Station, TX
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
   /B.S., Computer Science, Since Aug 2013/
+  Major GPA: 4.00
   Overall GPA: 3.47
   Expected to graduate May 2017.
   Relevant computer science courses:
@@ -20,6 +21,15 @@ Texas A&M University - College Station, TX
 
 PROJECTS
 ========
+
+High Noon / Game Designer and Lead Developer
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  *Feb 2016*
+  Coordinated graphics and user interface design. Oversaw integration of
+  user interface and game rules implementations in the Unity 3D game
+  engine.
+
 
 Cryptosecurity Suite / C++ Developer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,28 +55,16 @@ E-Writer / Qt and C++ Developer
   *Feb-Apr 2014*
   Developed a fast and efficient word processor with a UI that
   facilitates high productivity without a mouse for a low-power Linux
-  device. The device was a finalist entry in the 2014 Raymond Ideas
-  Challenge, winning $1000 in the video competition.
+  device. Obtained a finalist entry in the 2014 Raymond Ideas Challenge,
+  winning $1000 in the video competition.
 
 
 COMPUTER SKILLS
 ===============
 
   *Languages*: C, C++, Ruby, Java, Bash, Haskell, Lua, LaTeX.
-  *Applications*: Emacs, Vim, JetBrains, Visual Studio, Git.
+  *Applications*: Emacs, Vim, Unity 3D, Git, JetBrains, Visual Studio.
   *Operating Systems*: Linux, Unix, Mac OSX, Windows.
-
-
-EXPERIENCE
-==========
-
-Six Flags - San Antonio, TX
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-  /Ride Operator, Feb-Oct 2011/
-  Kept track of guest throughput. Maintained cleanliness of ride area.
-  Ensured safety of guests on the ride. Supervised hundreds of guests on
-  five different rides throughout the day.
 
 
 ACTIVITIES
