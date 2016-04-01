@@ -3,7 +3,7 @@
 #+STARTUP: odd hidestars indent
 #+LATEX_CLASS: article
 #+LATEX_HEADER: \input{page_setup.tex}
-| martin.frackerjr@gmail.com | *Martin Fracker, Jr.* | 907 Cross St., #733B      |
+| martin.frackerjr@gmail.com | *Martin Fracker, Jr.*   | 907 Cross St., #733B      |
 | (907)-676-5680             | www.martinfrackerjr.com | College Station, TX 77840 |
 * EDUCATION
 ** Texas A&M University - College Station, TX
