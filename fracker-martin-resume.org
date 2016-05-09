@@ -6,6 +6,7 @@
 | martin.frackerjr@gmail.com | *Martin Fracker, Jr.*   | 907 Cross St., #733B      |
 | (907)-676-5680             | www.martinfrackerjr.com | College Station, TX 77840 |
 * EDUCATION
+
 ** Texas A&M University - College Station, TX
 /B.S., Computer Science, Since Aug 2013/\\
 Major GPA: 4.00\\
@@ -16,6 +17,10 @@ Relevant computer science courses:\\
 - CSCE 315, Programming Studio
 - CSCE 314, Programming Languages
 - CSCE 221, Data Structures and Algorithms
+* EXPERIENCE
+/Ride Operator, Apr 2016-Present/\\
+Currently working on a web application in ASP.NET MVC which will allow hiring
+staff to record candidate details online.
 * PROJECTS
 ** High Noon / Game Designer and Lead Developer
 *Feb 2016*\\
@@ -26,11 +31,6 @@ interface and game rules implementations in the Unity 3D game engine.
 Using agile scrum and test-driven development, worked in a team of
 programmers to write various cryptography tools. Wrote a tool to hide
 and retrieve data from images and sound files.
-** Database Management System / C++ Developer
-*Apr 2015*\\
-Designed and implemented a relational database management system as well
-as a simple SQL-like language using Boost libraries Spirit, Phoenix, and
-Fusion.
 ** E-Writer / Qt and C++ Developer
 *Feb-Apr 2014*\\
 Developed a fast and efficient word processor with a UI that facilitates high
@@ -38,7 +38,7 @@ productivity without a mouse for a low-power Linux device. Obtained a finalist
 entry in the 2014 Raymond Ideas Challenge, winning $1000 in the video
 competition.
 * COMPUTER SKILLS
-*Languages*: C, C++, Ruby, Java, Bash, Haskell, Lua, LaTeX.\\
+*Languages*: C, C++, C# Ruby, Java, Bash, Haskell, Lua, LaTeX.\\
 *Applications*: Emacs, Vim, Unity 3D, Git, JetBrains, Visual Studio.\\
 *Operating Systems*: Linux, Unix, Mac OSX, Windows.
 * ACTIVITIES

@@ -19,6 +19,14 @@ Texas A&M University - College Station, TX
   - CSCE 221, Data Structures and Algorithms
 
 
+EXPERIENCE
+==========
+
+  /Ride Operator, Apr 2016-Present/
+  Currently working on a web application in ASP.NET MVC which will allow
+  hiring staff to record candidate details online.
+
+
 PROJECTS
 ========
 
@@ -40,15 +48,6 @@ Cryptosecurity Suite / C++ Developer
   and retrieve data from images and sound files.
 
 
-Database Management System / C++ Developer
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-  *Apr 2015*
-  Designed and implemented a relational database management system as
-  well as a simple SQL-like language using Boost libraries Spirit,
-  Phoenix, and Fusion.
-
-
 E-Writer / Qt and C++ Developer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -62,7 +61,7 @@ E-Writer / Qt and C++ Developer
 COMPUTER SKILLS
 ===============
 
-  *Languages*: C, C++, Ruby, Java, Bash, Haskell, Lua, LaTeX.
+  *Languages*: C, C++, C# Ruby, Java, Bash, Haskell, Lua, LaTeX.
   *Applications*: Emacs, Vim, Unity 3D, Git, JetBrains, Visual Studio.
   *Operating Systems*: Linux, Unix, Mac OSX, Windows.
 
