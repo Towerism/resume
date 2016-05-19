@@ -22,7 +22,10 @@ Texas A&M University - College Station, TX
 EXPERIENCE
 ==========
 
-  /Ride Operator, Apr 2016-Present/
+Improving - College Station, TX
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  /Associate Consultant, Apr 2016-Present/
   Currently working on a web application in ASP.NET MVC which will allow
   hiring staff to record candidate details online.
 

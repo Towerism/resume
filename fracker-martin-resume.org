@@ -18,7 +18,8 @@ Relevant computer science courses:\\
 - CSCE 314, Programming Languages
 - CSCE 221, Data Structures and Algorithms
 * EXPERIENCE
-/Ride Operator, Apr 2016-Present/\\
+** Improving - College Station, TX
+/Associate Consultant, Apr 2016-Present/\\
 Currently working on a web application in ASP.NET MVC which will allow hiring
 staff to record candidate details online.
 * PROJECTS
