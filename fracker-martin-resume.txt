@@ -26,9 +26,13 @@ Improving - College Station, TX
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
   /Associate Consultant, Apr 2016-Present/
-  Currently working on a web application in ASP.NET MVC which will allow
-  hiring staff to record candidate details online. Learned full stack
-  development using Twitter Bootstrap, RavenDB, and Visual Studio.
+  As a technical consultant working for a variety of clients, made
+  significant contributions to various web applications, including an
+  application to keep track of job candidates, as well as a loan and
+  insurance application system. Used and became familiar with many
+  different kinds of technologies such as ASP.NET Web API, ASP.NET MVC,
+  AngularJS, Twitter Bootstrap, Less, SASS, Typescript, MYSQL DB, and
+  Raven DB.
 
 
 PROJECTS
@@ -65,8 +69,9 @@ E-Writer / Qt and C++ Developer
 COMPUTER SKILLS
 ===============
 
-  *Languages*: C, C++, C# Ruby, Java, Bash, Haskell, Lua, LaTeX.
-  *Applications*: Emacs, Vim, Unity 3D, Git, JetBrains, Visual Studio.
+  *Languages*: C, C++, C#, Ruby, Java, Javascript, Bash, Haskell, Lua,
+   LaTeX.
+  *Applications*: Visual Studio, Emacs, Vim, Unity 3D, Git, JetBrains.
   *Operating Systems*: Linux, Unix, Mac OSX, Windows.
 
 
