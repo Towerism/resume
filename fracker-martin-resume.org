@@ -26,6 +26,10 @@ track of job candidates, as well as a loan and insurance application
 system. Used and became familiar with many different kinds of technologies such
 as ASP.NET Web API, ASP.NET MVC, AngularJS, Twitter Bootstrap, Less, SASS,
 Typescript, MYSQL DB, and Raven DB.
+* CERTIFICATIONS
+** Professional Scrum Master I
+*Jul 2016-Present*\\
+Certified by =Scrum.org=.
 * PROJECTS
 ** High Noon / Game Designer and Lead Developer
 *Feb 2016*\\
@@ -46,8 +50,3 @@ competition.
 *Languages*: C, C++, C#, Ruby, Java, Javascript, Bash, Haskell, Lua, LaTeX.\\
 *Applications*: Visual Studio, Emacs, Vim, Unity 3D, Git, JetBrains.\\
 *Operating Systems*: Linux, Unix, Mac OSX, Windows.
-* ACTIVITIES
-** Hullabaloo Band
-/Trombone Player, Since Aug 2013/\\
-Playing trombone in the pep band for Texas A&M University basketball and
-volleyball.

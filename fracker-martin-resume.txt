@@ -35,6 +35,16 @@ Improving - College Station, TX
   Raven DB.
 
 
+CERTIFICATIONS
+==============
+
+Professional Scrum Master I
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  *Jul 2016-Present*
+  Certified by `Scrum.org'.
+
+
 PROJECTS
 ========
 
@@ -73,14 +83,3 @@ COMPUTER SKILLS
    LaTeX.
   *Applications*: Visual Studio, Emacs, Vim, Unity 3D, Git, JetBrains.
   *Operating Systems*: Linux, Unix, Mac OSX, Windows.
-
-
-ACTIVITIES
-==========
-
-Hullabaloo Band
-~~~~~~~~~~~~~~~
-
-  /Trombone Player, Since Aug 2013/
-  Playing trombone in the pep band for Texas A&M University basketball
-  and volleyball.
