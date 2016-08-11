@@ -1,5 +1,5 @@
  martin.frackerjr@gmail.com  *Martin Fracker, Jr.*    907 Cross St., #733B      
- (907)-676-5680              www.martinfrackerjr.com  College Station, TX 77840 
+ (979)-676-5680              www.martinfrackerjr.com  College Station, TX 77840 
 
 
 EDUCATION
@@ -15,7 +15,6 @@ Texas A&M University - College Station, TX
   Relevant computer science courses:
   - CSCE 411, Design and Analysis of Algorithms
   - CSCE 315, Programming Studio
-  - CSCE 314, Programming Languages
   - CSCE 221, Data Structures and Algorithms
 
 
@@ -48,6 +47,29 @@ Professional Scrum Master I
 PROJECTS
 ========
 
+ARM Management Operations Web App / Full-stack Developer
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  *May 2016-Present*
+  Currently working in a cross-functional scrum team of six developers
+  to develop a management operations web application for a company which
+  provides risk management solutions for agribusiness. Using the Agile
+  Scrum methodology and technologies such as AngularJS, ASP.NET Web API,
+  Jasmine, Twitter Bootstrap, and Highway Data, my role has been that of
+  a full-stack developer.
+
+
+Interview Web App / Full-stack Developer
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  *Apr-May 2016*
+  Configured, designed, and developed the initial iteration of a web
+  application that would allow hiring staff to record and view candidate
+  details online. Using technologies such as ASP.NET MVC, Highway Data,
+  RavenDB, and Twitter Bootstrap, my role was that of a full-stack
+  developer.
+
+
 High Noon / Game Designer and Lead Developer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -55,25 +77,6 @@ High Noon / Game Designer and Lead Developer
   Coordinated graphics and user interface design. Oversaw integration of
   user interface and game rules implementations in the Unity 3D game
   engine.
-
-
-Cryptosecurity Suite / C++ Developer
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-  *May 2015*
-  Using agile scrum and test-driven development, worked in a team of
-  programmers to write various cryptography tools. Wrote a tool to hide
-  and retrieve data from images and sound files.
-
-
-E-Writer / Qt and C++ Developer
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-  *Feb-Apr 2014*
-  Developed a fast and efficient word processor with a UI that
-  facilitates high productivity without a mouse for a low-power Linux
-  device. Obtained a finalist entry in the 2014 Raymond Ideas Challenge,
-  winning $1000 in the video competition.
 
 
 COMPUTER SKILLS
