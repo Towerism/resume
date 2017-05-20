@@ -31,7 +31,7 @@ DB.
 *Jul 2016-Present*\\
 Certified by =Scrum.org=.
 * PROJECTS
-** ARM Management Operations Web App / Web Developer
+** Management Operations Web App / Web Developer
 *May 2016-Present*\\
 Currently working in a cross-functional scrum team of six developers to develop
 a management operations web application for a company which provides risk
