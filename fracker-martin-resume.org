@@ -8,14 +8,14 @@
 * EDUCATION
 
 ** Texas A&M University - College Station, TX
-/B.S., Computer Science, Since Aug 2013/\\
+/B.S., Computer Science, Starting Aug 2013/\\
 Major GPA: 3.85\\
 Overall GPA: 3.4\\
-Expected to graduate May 2017.\\
+Graduated May 2017.\\
 Relevant computer science courses:\\
+- CSCE 438, Distributed Objects Programming
+- CSCE 463, Networks and Distributed Processes
 - CSCE 411, Design and Analysis of Algorithms
-- CSCE 315, Programming Studio
-- CSCE 221, Data Structures and Algorithms
 * EXPERIENCE
 ** Improving - College Station, TX
 /Associate Consultant, Apr 2016-Present/\\
@@ -23,8 +23,9 @@ As a technical consultant working for a variety of clients, made significant
 contributions to various web applications, including an application to keep
 track of job candidates, as well as a loan and insurance application system.
 Used and became familiar with many different kinds of technologies such as
-ASP.NET Web API, ASP.NET MVC, AngularJS, Selenium, Protractor.NET, Twitter
-Bootstrap, Less, SASS, Typescript, MYSQL DB, and Raven DB.
+ASP.NET Web API, ASP.NET MVC, Jenkins, AngularJS, Selenium,
+Protractor.NET, Twitter Bootstrap, Less, SASS, Typescript, MYSQL DB, and Raven
+DB.
 * CERTIFICATIONS
 ** Professional Scrum Master I
 *Jul 2016-Present*\\
@@ -36,8 +37,8 @@ Currently working in a cross-functional scrum team of six developers to develop
 a management operations web application for a company which provides risk
 management solutions for agribusiness. Using the Agile Scrum methodology
 together with test-driven development and technologies such as AngularJS,
-ASP.NET Web API, Jasmine, Selenium, Protractor.NET, Twitter Bootstrap, and
-Highway Data, my role has been that of a front- and back-end web developer.
+ASP.NET Web API, Jasmine, Jenkins, Selenium, Protractor.NET, Twitter Bootstrap,
+and Highway Data, my role has been that of a front- and back-end web developer.
 ** Interview Web App / Web Developer
 *Apr-May 2016*\\
 Configured, designed, and developed the initial iteration of a web application
