@@ -3,27 +3,16 @@
 #+STARTUP: odd hidestars indent
 #+LATEX_CLASS: article
 #+LATEX_HEADER: \input{page_setup.tex}
-| martin.frackerjr@gmail.com | *Martin Fracker, Jr.*   | 907 Cross St., #733B      |
-| (979)-676-5680             | www.martinfrackerjr.com | College Station, TX 77840 |
-* EDUCATION
-
-** Texas A&M University - College Station, TX
-/B.S., Computer Science, Starting Aug 2013/\\
-Major GPA: 3.85\\
-Overall GPA: 3.4\\
-Graduated May 2017.\\
-Relevant computer science courses:\\
-- CSCE 438, Distributed Objects Programming
-- CSCE 463, Networks and Distributed Processes
-- CSCE 411, Design and Analysis of Algorithms
+| martin.frackerjr@gmail.com | *Martin Fracker, Jr.*   | 1501 Copperfield Pkwy, #113 |
+| (979)-676-5680             | www.martinfrackerjr.com | College Station, TX 77845 |
 * EXPERIENCE
 ** Improving - College Station, TX
 /Associate Consultant, Apr 2016-Present/\\
 As a technical consultant working for a variety of clients, made significant
 contributions to various web applications, including an application to keep
-track of job candidates, as well as a loan and insurance application system.
-Used and became familiar with many different kinds of technologies such as
-ASP.NET Web API, ASP.NET MVC, Jenkins, AngularJS, Selenium,
+track of job candidates, as well as a loan and insurance analysis system. Used
+and became familiar with many different kinds of technologies such as ASP.NET
+Web API, ASP.NET MVC, Jenkins, AngularJS, Angular, Vue, ASP.NET Core, Selenium,
 Protractor.NET, Twitter Bootstrap, Less, SASS, Typescript, MYSQL DB, and Raven
 DB.
 * CERTIFICATIONS
@@ -35,21 +24,30 @@ Certified by =Scrum.org=.
 *May 2016-Present*\\
 Currently working in a cross-functional scrum team of six developers to develop
 a management operations web application for a company which provides risk
-management solutions for agribusiness. Using the Agile Scrum methodology
-together with test-driven development and technologies such as AngularJS,
-ASP.NET Web API, Jasmine, Jenkins, Selenium, Protractor.NET, Twitter Bootstrap,
-and Highway Data, my role has been that of a front- and back-end web developer.
+management solutions for agribusiness. Set up continuous delivery using Jenkins
+allowing my team to deploy multiple times per week. Using the Agile Scrum
+methodology together with test-driven development and technologies such as
+AngularJS, ASP.NET Web API, Jasmine, Jenkins, Selenium, Protractor.NET, Twitter
+Bootstrap, and Highway Data, my role has been that of a full stack developer.
 ** Interview Web App / Web Developer
 *Apr-May 2016*\\
 Configured, designed, and developed the initial iteration of a web application
 that would allow hiring staff to record and view candidate details online. Using
 technologies such as ASP.NET MVC, Highway Data, RavenDB, and Twitter Bootstrap,
-my role was that of a front- and back-end web developer.
+my role was that of a full stack developer.
 ** High Noon / Game Designer and Lead Developer
 *Feb 2016*\\
 Coordinated graphics and user interface design. Oversaw integration of user
 interface and game rules implementations in the Unity 3D game engine.
 * COMPUTER SKILLS
+*Web Frameworks*: Express, Vue, Angular, AngularJS, ASP.NET MVC, ASP.NET Core\\
+*DevOps*: Docker, Coveralls, Travis, Jenkins\\
 *Languages*: C, C++, C#, Ruby, Java, Javascript, Bash, Haskell, Lua, LaTeX.\\
 *Applications*: Visual Studio, Emacs, Vim, Unity 3D, Git, JetBrains.\\
 *Operating Systems*: Linux, Unix, Mac OSX, Windows.
+* EDUCATION
+** Texas A&M University - College Station, TX
+/B.S., Computer Science, Started Aug 2013/\\
+Major GPA: 3.85\\
+Overall GPA: 3.4\\
+Graduated May 2017.\\
