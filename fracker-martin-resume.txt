@@ -44,8 +44,8 @@ Management Operations Web App / Web Developer
   management solutions for agribusiness. Set up continuous delivery
   using Jenkin and Azure, later using Visual Studio Team Services,
   allowing my team to deploy multiple times per week. Interested in
-  upgrading the tech stack, team looked into Vue.js, Angular and .NET
-  core, and Docker. Using the Agile Scrum methodology together with
+  upgrading the tech stack, team looked into Vue.js, Angular, .NET core,
+  and Docker. Using the Agile Scrum methodology together with
   test-driven development and technologies such as AngularJS, Vue.js,
   Angular, ASP.NET Web API, .NET Core, Jasmine, Jenkins, Azure, Visual
   Studio Team Services, Docker, Selenium, Protractor.NET, Twitter
