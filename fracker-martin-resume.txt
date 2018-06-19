@@ -42,7 +42,7 @@ Management Operations Web App / Web Developer
   Worked in a cross-functional scrum team to develop a management
   operations web application for a company which provides risk
   management solutions for agribusiness. Within the first year in
-  production, closed more than a half-billion dollars-worth of loans.
+  production, closed more than a half-billion dollars' worth of loans.
   Set up continuous delivery using Jenkin and Azure, later using Visual
   Studio Team Services, allowing my team to deploy multiple times per
   week. Interested in upgrading the tech stack, team looked into Vue.js,
