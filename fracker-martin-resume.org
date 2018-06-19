@@ -16,8 +16,9 @@ contributions to various web applications, including an application to keep
 track of job candidates, as well as a loan and insurance analysis system. Used
 and became familiar with many different kinds of technologies such as ASP.NET
 Web API, ASP.NET MVC, Entity Framework, Jenkins, AngularJS, Angular, Vue.js,
-ASP.NET Core, Azure, Visual Studio Team Services, Selenium, Protractor.NET,
-Twitter Bootstrap, Less, SASS, Typescript, MYSQL DB, and Raven DB.
+ASP.NET Core, Azure, Visual Studio Team Services, Docker, Selenium,
+Protractor.NET, Twitter Bootstrap, Less, SASS, Typescript, MYSQL DB, and Raven
+DB.
 
 * CERTIFICATIONS
 
